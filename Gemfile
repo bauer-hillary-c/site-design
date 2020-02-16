@@ -16,6 +16,9 @@ gem 'therubyracer'
 gem 'less-rails-bootstrap'
 gem 'font-awesome-rails'
 gem 'jquery-easing-rails'
+gem 'jquery-rails'
+gem 'popper_js', '~> 1.12.9'
+gem 'bootstrap-sass'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
