@@ -15,6 +15,9 @@
 //= require turbolinks
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
-//= require bootstrap
 //= require popper
+//= require agency
+//= require cable
+//= require contact_me
+//= require jqBootstrapValidation
+//= require_tree .
