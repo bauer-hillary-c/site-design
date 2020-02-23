@@ -19,6 +19,8 @@ gem 'jquery-easing-rails'
 gem 'jquery-rails'
 gem 'popper_js', '~> 1.12.9'
 gem 'bootstrap-sass'
+gem 'twitter-bootstrap-rails'
+gem 'less-rails'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
